@@ -20,7 +20,8 @@ configured the app to treat RabbitMQ as an attached resource that is reached via
 3. The 12-Factor methodology states: "One codebase tracked in revision control, many deploys."
 By having a separate repository for each microservice, each service becomes its own "app."
 
-Links to the three service repositories you created:
+Links to the three service repositories created:
+
 order-service - https://github.com/vijayxavierwalter/26W_CST8915_Lab2_order_service.git 
 
 product-service - https://github.com/vijayxavierwalter/26W_CST8915_Lab2_product_service.git   
